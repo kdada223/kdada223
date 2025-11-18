@@ -15,6 +15,28 @@
   - 라이브: https://synkly.netlify.app/
   - 코드: https://github.com/hyun-june/HTML-CSS-4-3-TeamProject
   - 역할: 메인(랜딩) 페이지 반응형(모바일/태블릿/데스크탑) 레이아웃 및 마크업/스타일 구현, 카드·헤더 컴포넌트 분리, Figma 디자인 토큰(색/타이포/spacing) 정의 지원, 접근성(시맨틱 태그/명도 대비/포커스 흐름) 기본 적용, 스프린트 회의 참여(요구·우선순위 조율).
+  - ## 🤝 SYNKLY 팀
+
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+  <div style="flex:1 1 180px; min-width:180px; border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;">
+    <img src="https://github.com/j1sung.png?size=120" width="80" alt="안지성 아바타" />
+    <h4 style="margin:8px 0 4px;">안지성</h4>
+    <p style="margin:0; font-size:13px;">Product Manager<br/>요구 정의 · 기능 우선순위</p>
+    <a href="https://github.com/j1sung">GitHub</a>
+  </div>
+  <div style="flex:1 1 180px; min-width:180px; border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;">
+    <img src="https://github.com/hyun-june.png?size=120" width="80" alt="이현준 아바타" />
+    <h4 style="margin:8px 0 4px;">이현준</h4>
+    <p style="margin:0; font-size:13px;">Scrum Master<br/>스프린트 진행 · 커뮤니케이션</p>
+    <a href="https://github.com/hyun-june">GitHub</a>
+  </div>
+  <div style="flex:1 1 180px; min-width:180px; border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;">
+    <img src="https://github.com/kdada223.png?size=120" width="80" alt="강준영 아바타" />
+    <h4 style="margin:8px 0 4px;">강준영</h4>
+    <p style="margin:0; font-size:13px;">Developer<br/>메인 반응형 · 컴포넌트 · 접근성</p>
+    <a href="https://github.com/kdada223">GitHub</a>
+  </div>
+</div>
 - 📓 SoSoDiary — 팀 JS 프로젝트(감사일기)
   - 라이브: (빠른 시일내로 배포 후 업로드) 
   - 코드: https://github.com/kyuyoung07/Group-project-javascript
