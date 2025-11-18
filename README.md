@@ -31,10 +31,11 @@
 
 | 역할(Role) | 프로필(Profile) | 이름(Name) | 주요 기여(Highlight) |
 |:----------:|:---------------:|:-----------|:----------------------|
-| Contributor | <img src="https://github.com/hong-free.png?size=120" width="88" alt="홍성연 GitHub 아바타" /> | [홍성연](https://github.com/hong-free) | (채워주세요) 예: UI 구조 개선 / 라우팅 초안 |
-| Contributor | <img src="https://github.com/Eunkyung-Chung.png?size=120" width="88" alt="정은경 GitHub 아바타" /> | [정은경](https://github.com/Eunkyung-Chung) | (채워주세요) 예: 스타일/접근성 검토 / 폼 에러 메시지 |
-| Contributor | <img src="https://github.com/kyuyoung07.png?size=120" width="88" alt="심규영 GitHub 아바타" /> | [심규영](https://github.com/kyuyoung07) | (채워주세요) 예: 데이터 구조 · 로컬스토리지 스키마 |
-| Contributor | <img src="https://github.com/kdada223.png?size=120" width="88" alt="강준영 GitHub 아바타" /> | [강준영](https://github.com/kdada223) | 메인/애니메이션 · Q&A CRUD+검색/하이라이트 · 모달 UX · 반응형 |
+| Product Manager | <img src="https://github.com/kdada223.png?size=120" width="88" alt="강준영 GitHub 아바타" /> | [강준영](https://github.com/kdada223) | 메인/애니메이션 · Q&A CRUD+검색/하이라이트 · 모달 UX · 반응형 |
+| Scrum Master | <img src="https://github.com/kyuyoung07.png?size=120" width="88" alt="심규영 GitHub 아바타" /> | [심규영](https://github.com/kyuyoung07) | 앱 메인 UI(달력·일기·갤러리) 개발, localStorage 데이터 레이어/CRUD |
+| Developer | <img src="https://github.com/hong-free.png?size=120" width="88" alt="홍성연 GitHub 아바타" /> | [홍성연](https://github.com/hong-free) | 로그인 페이지 구현, 기초 유효성 검사(이메일/비밀번호 형식·필수값), 폼 에러 상태 UI, 반응형 적용 |
+| Developer | <img src="https://github.com/Eunkyung-Chung.png?size=120" width="88" alt="정은경 GitHub 아바타" /> | [정은경](https://github.com/Eunkyung-Chung) | 회원가입 페이지 구현, 기초 유효성 검사(이메일·비밀번호·비밀번호 확인 등), 폼 에러 상태 UI, 반응형 적용 |
+
 - 📝 미니 블로그 (준비 중)
   - 목표: SSR + 이미지 최적화로 LCP 2.0s 이하, 접근성 100
   
