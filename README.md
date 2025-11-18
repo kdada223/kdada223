@@ -37,12 +37,22 @@
     <a href="https://github.com/kdada223">GitHub</a>
   </div>
 </div>
+
 - 📓 SoSoDiary — 팀 JS 프로젝트(감사일기)
   - 라이브: (빠른 시일내로 배포 후 업로드) 
   - 코드: https://github.com/kyuyoung07/Group-project-javascript
   - 역할: 메인 페이지 반응형 레이아웃 + CSS 애니메이션 구현, 기존 미니프로젝트 로고/디자인 자산 이식, Q&A 페이지(질문/답변 CRUD, 제목/본문 부분 검색, 키워드 하이라이트) 개발, 로컬스토리지 영속화, 모달 기반 작성/수정/삭제 흐름, 모바일/태블릿/데스크탑 반응형 적용.
+  ## 👥 프로젝트 팀원 (SoSoDiary)
+
+| 역할(Role) | 프로필(Profile) | 이름(Name) | 주요 기여(Highlight) |
+|:----------:|:---------------:|:-----------|:----------------------|
+| Contributor | <img src="https://github.com/hong-free.png?size=120" width="88" alt="홍성연 GitHub 아바타" /> | [홍성연](https://github.com/hong-free) | (채워주세요) 예: UI 구조 개선 / 라우팅 초안 |
+| Contributor | <img src="https://github.com/Eunkyung-Chung.png?size=120" width="88" alt="정은경 GitHub 아바타" /> | [정은경](https://github.com/Eunkyung-Chung) | (채워주세요) 예: 스타일/접근성 검토 / 폼 에러 메시지 |
+| Contributor | <img src="https://github.com/kyuyoung07.png?size=120" width="88" alt="심규영 GitHub 아바타" /> | [심규영](https://github.com/kyuyoung07) | (채워주세요) 예: 데이터 구조 · 로컬스토리지 스키마 |
+| Contributor | <img src="https://github.com/kdada223.png?size=120" width="88" alt="강준영 GitHub 아바타" /> | [강준영](https://github.com/kdada223) | 메인/애니메이션 · Q&A CRUD+검색/하이라이트 · 모달 UX · 반응형 |
 - 📝 미니 블로그 (준비 중)
   - 목표: SSR + 이미지 최적화로 LCP 2.0s 이하, 접근성 100
+  
 
 ## 🧰 Tech Stack
 - Languages: JavaScript(ES6+), TypeScript(학습 중)
