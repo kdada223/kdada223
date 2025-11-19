@@ -11,7 +11,7 @@
 - 관심사: 웹 접근성(A11y), 성능 최적화(LCP/이미지 최적화), 문서화·협업(PR/README)
 | Contributions RPG | Most Used Languages |
 |-------------------|---------------------|
-| <img src="./metrics_rpg.svg" width="420" alt="RPG card"/> | <img src="./metrics_languages.svg" width="320" alt="Languages card"/> |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdada223&layout=compact&langs_count=8)
 
 ## 🚀 대표 프로젝트
 - 🤝 SYNKLY — 협업 매칭 플랫폼
