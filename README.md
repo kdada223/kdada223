@@ -55,16 +55,10 @@
 - Resume: [Notion 이력서 링크]
 - Velog: https://velog.io/@kdada223 · YouTube: (보류)
 
-## 📊 기본 통계 (Commits / Stars / Repos)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&include_all_commits=true&count_private=true)
-
----
-
-## 🧪 Most Used Languages (추정 코드 비율)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdada223&layout=compact&langs_count=8)
-
----
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=kdada223&theme=default)
 
 
