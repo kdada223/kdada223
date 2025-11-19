@@ -47,7 +47,7 @@
 - State/Data: TanStack Query(학습 예정)
 - Forms/Validation: React Hook Form, Zod(학습 예정)
 - Tooling: Vite, ESLint, Prettier
-- Testing: Testing Library, Playwright(학습 예정)
+- Testing: Testing Library(학습 예정), Playwright(학습 예정)
 - Infra/CI/CD: Netlify·Vercel(배포), GitHub Actions(학습 예정)
 
 ## 📫 Contact
