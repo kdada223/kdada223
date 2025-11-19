@@ -50,6 +50,12 @@
 - Testing: Testing Library(학습 예정), Playwright(학습 예정)
 - Infra/CI/CD: Netlify·Vercel(배포), GitHub Actions(학습 예정)
 
+| 기본 | 언어 | 연속 | 활동 |
+|------|------|------|------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdada223&layout=compact&langs_count=8) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=kdada223&theme=default) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kdada223&theme=github) |
+
+
+
 ## 📫 Contact
 - Email: kangh2580@naver.com
 - Resume: [Notion 이력서 링크]
