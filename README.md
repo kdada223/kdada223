@@ -9,9 +9,10 @@
 - 목표: React/TypeScript/Next.js 기반 프론트엔드 개발자로 성장
 - 현재: 직장 병행(하루 2시간)으로 JS → React → TypeScript → Next.js 로드맵 진행 중
 - 관심사: 웹 접근성(A11y), 성능 최적화(LCP/이미지 최적화), 문서화·협업(PR/README)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdada223&layout=compact&langs_count=8)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&include_all_commits=true&count_private=true)
+
+![GitHub Stats (dark)](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight)
+![Top Langs (tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=kdada223&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## 🚀 대표 프로젝트
 - 🤝 SYNKLY — 협업 매칭 플랫폼
