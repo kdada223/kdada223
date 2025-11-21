@@ -57,7 +57,7 @@
 ## 📫 Contact
 - Email: kangh2580@naver.com
 - Resume: [Notion 이력서 링크]
-- Velog: https://velog.io/@kdada223 · YouTube: (보류)
+- Velog: https://velog.io/@kangh0852/posts · YouTube: (보류)
 
 
 
