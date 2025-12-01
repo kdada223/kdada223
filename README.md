@@ -97,4 +97,4 @@
 
 ---
 
-![kdada223's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&theme=default&include_all_commits=true)
+![kdada223's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&theme=default)
