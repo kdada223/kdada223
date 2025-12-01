@@ -1,8 +1,5 @@
 <h1 align="center">안녕하세요, 프론트엔드 개발자 지망생 강준영(CoCookNam)입니다 👋</h1>
 
-| Commits (총) | Pull Requests (총) |
-|---:|---:|
-| 0 | 0 |
 
 <p align="center">
   <a href="https://velog.io/@kdada223"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
