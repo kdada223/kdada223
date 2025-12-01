@@ -94,3 +94,6 @@
 
 > 기술·소통·사용자 모두를 생각하는 개발자로 성장합니다.  
 > 포기하지 않는 개발자, 그리고 협업에서 힘이 되는 사람이 되겠습니다.
+
+---
+![kdada223's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdada223&show_icons=true&theme=default&include_all_commits=true)
